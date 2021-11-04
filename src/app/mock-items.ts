@@ -11,3 +11,5 @@ export const ITEMS: Item[] = [
   { id: 8, name: 'Dagger', price: 70},
   { id: 9, name: 'Axe', price: 120},
   { id: 10, name: 'Armor', price: 200 },
+
+];
